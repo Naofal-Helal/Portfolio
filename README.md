@@ -1,4 +1,4 @@
-# Maria Brió Pérez
+# FennoLal
 
 <p align="center">
   <a href="https://mariabrio.vercel.app">
@@ -71,7 +71,7 @@ After admiring the above image, I would _definitely_ hire such a professional, f
 
 # 💾 Content
 
-Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for Maria Brió Pérez](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual.
+Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for FennoLal](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual.
 
 | Section                                                  | Description                                                                                                                                                                                                                                                                                                                                                                               |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
